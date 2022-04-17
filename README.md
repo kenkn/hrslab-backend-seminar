@@ -1,0 +1,2 @@
+# hrslab-backend-seminar
+高信頼システム研究室のバックエンドゼミのサンプルコード
