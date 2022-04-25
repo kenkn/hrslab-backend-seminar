@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  api:
+    volumes:
+      - .:/app
+    build: .
+    restart: always
+    ports:
+      - "8000:8000"
